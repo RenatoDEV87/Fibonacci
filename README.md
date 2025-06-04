@@ -1,6 +1,6 @@
 # Escreva um programa que gera e imprime os primeiros 10 números da sequência de Fibonacci utilizando um loop for
 
-Exercício 01: Sequência de Fibonacci
+# Exercício 15: Sequência de Fibonacci
 
 ---
 
